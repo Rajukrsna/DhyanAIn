@@ -116,6 +116,7 @@ Ensure you have the following installed:
 ### 3. **Nutritional Analysis**
 ![Health Recipes](./screenshots/habit2.png)
 
+![Health Recipes](./screenshots/habit5.png)
 ---
 
 ## 🫏️ **Contributing**
